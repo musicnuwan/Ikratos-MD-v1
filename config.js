@@ -62,8 +62,8 @@ global.nameown = '𝗙𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥..✨' // Nama Owner
 /*============== STAFF ==============*/
 global.owner = [
   ['94786917462', '𝗙𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥..✨', true] //Replace your number with your name
-  // [number, dia creator/owner?, dia developer?]
-] // Put your number here
+  // ['94786917462', '𝗙𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥..✨' , 'true']
+] // '94786917462'
 global.mods = [] // Want some help?
 global.prems = ['923470027813','68673045381','923191089077'] // Premium user is not here to add it, type .addprem @ user 10
 
@@ -98,8 +98,8 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘✨ᵀᴴᴱ 𝙿𝚁𝙾𝙵𝙴
 global.wm3 = 'HERT TOUCHING MUSIC BOT ..🎼🔥'
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ ɪᴋʀᴀᴛᴏs ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
-global.author = global.wm2
+global.titlebot = 'HERT TOUCHING MUSIC BOT ..🎼🔥'
+global.author = global.wm
 global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
 
 
@@ -349,7 +349,7 @@ global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
 // COMMAND MENU
-global.dashmenu = '┅━━━═┅═❏ *ღ HERT TOUCHING MUSIC MENU 🙈💖 ღ* ❏═┅═━━━┅'
+global.dashmenu = '┅━━━═┅═❏ *ღHERT TOUCHING MUSIC MENUღ* ❏═┅═━━━┅'
 global.cmenut = '❏––––––『'                       //top
 global.cmenuh = '』––––––'                        //header
 global.cmenub = '┊☯︎'                            //body
@@ -366,7 +366,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '🌀ఌHeart♡Touching♡Music🌀'
-global.stickauth = `☂︎\ᵀᴴᴱ 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/94786917462`
+global.stickauth = `☂︎\@admin & bot owner - http://wa.me/+94786917462?text=හායි✨`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ ✨ᵀᴴᴱ 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁..✨'
 global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᵀᴴᴱ 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁'
 
