@@ -53,8 +53,8 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '+94743811178' //Nomor Bot
-global.nomorown = '+94786917462' //Nomor Owner
+global.nomorbot = '743811178' //Nomor Bot
+global.nomorown = '786917462' //Nomor Owner
 global.namebot = '🌀ఌHeart♡Touching♡Music🌀' //Nama Bot
 global.nameown = '𝗙𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥..✨' // Nama Owner
 
@@ -93,13 +93,13 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 🌀ఌHeart♡Touching♡Music🌀  」' //Main Watermark
+global.wm = '「🌀ఌHeart♡Touching♡Music🌀」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘✨ᵀᴴᴱ 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁..✨- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = 'HERT TOUCHING MUSIC BOT ..🎼🔥'
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
 global.titlebot = 'HERT TOUCHING MUSIC BOT ..🎼🔥'
-global.author = global.wm
+global.author = '✨ᵀᴴᴱ 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁..✨'
 global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
 
 
@@ -325,7 +325,7 @@ global.wait = '✨ ඔබගේ ගොනුව download කරමින් ප�
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+94 78 691 7462'
+global.phn = '786917462'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
