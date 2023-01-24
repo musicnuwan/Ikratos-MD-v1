@@ -53,15 +53,15 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '94743811178' //Nomor Bot
-global.nomorown = '94786917462' //Nomor Owner
+global.nomorbot = '+94743811178' //Nomor Bot
+global.nomorown = '+94786917462' //Nomor Owner
 global.namebot = '🌀ఌHeart♡Touching♡Music🌀' //Nama Bot
 global.nameown = '𝗙𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥..✨' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['94786917462', '𝗙𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥..✨', true] //Replace your number with your name
+  ['+94786917462', '𝗙𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥..✨', true] //Replace your number with your name
   // ['94786917462', '𝗙𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥..✨' , 'true']
 ] // '94786917462'
 global.mods = [] // Want some help?
@@ -335,7 +335,7 @@ global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 global.djson = 'application/json'
 
-global.thumbdoc = 'https://i.ibb.co/cc8jfkX/01.jpg'
+global.thumbdoc = 'https://images.app.goo.gl/nf9cXz6tBgrBgtH39'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -346,7 +346,7 @@ global.fpagedoc = '999'
 global.dmenut = 'ଓ═┅═━–〈' //top
 global.dmenub = '┊🇵🇰' //body
 global.dmenub2 = '┊' //body for info cmd on Default menu
-global.dmenuf = '┗––––––––––✦' //footer
+global.dmenuf = '✨ᵀᴴᴱ 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁..✨' //footer
 
 // COMMAND MENU
 global.dashmenu = '┅━━━═┅═❏ *ღHERT TOUCHING MUSIC MENUღ* ❏═┅═━━━┅'
